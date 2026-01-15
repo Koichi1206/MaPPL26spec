@@ -1,0 +1,27 @@
+# --- Arduino / C++ 関連 ---
+*.elf
+*.hex
+*.o
+*.a
+*.ko
+*.so
+*.mod
+*.map
+*.hex
+*.bin
+
+# ビルド用フォルダ
+build/
+bin/
+gen/
+
+# --- IDE 関連 (VS Code など) ---
+.vscode/
+.vs/
+*.swp
+*.user
+*.suo
+
+# --- OS 関連 ---
+Thumbs.db
+.DS_Store
